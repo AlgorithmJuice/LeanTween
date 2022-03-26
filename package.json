@@ -1,7 +1,7 @@
 {
     "name": "com.dentedpixel.leantween",
     "version": "2.47.1",
-    "display": "LeanTween",
+    "displayName": "LeanTween",
     "description": "LeanTween is an efficient tween engine that offers a many of the same features as the other tween engines (and more!) while having much less overhead.",
     "unity": "2020.3",
     "documentationUrl": "http://dentedpixel.com/LeanTweenDocumentation/classes/LeanTween.html",
